@@ -1,0 +1,14 @@
+{
+    "id": "pere-json",
+    "name": "pere-json",
+    "specVersion": "0.9",
+    "start": "state1",
+    "states": [
+        {
+            "name": "state1",
+            "type": "operation",
+            "actions": [],
+            "end":true
+        }
+    ]
+}
