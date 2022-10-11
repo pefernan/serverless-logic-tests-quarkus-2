@@ -5,7 +5,8 @@
     "start": "state1",
     "states": [
         {
-            "name": "state1",
+            "name": "state1-with change",
+            "id": "state1",
             "type": "operation",
             "actions": [],
             "end":true
